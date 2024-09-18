@@ -13,51 +13,6 @@ This project serves as a repository to document my journey of learning the funda
 
 **Do not use for personal studies** *somethings might be wrong* **THIS IS JUST A TEST**
 
-Here's a README for your GitHub project, combining the objectives of learning GitHub basics, getting certified, and including commonly used commands:
-
-Project Title: GitHub Fundamentals
-
-Description:
-
-This project serves as a repository to document my journey of learning the fundamentals of GitHub and working towards obtaining the GitHub certification. It will include notes, code examples, and exercises related to various GitHub concepts and workflows.
-
-Objectives:
-
-Gain a solid understanding of GitHub's core features and functionalities.
-Master essential GitHub commands and workflows.
-Successfully complete the GitHub certification exam.
-Build a portfolio of GitHub projects to showcase my skills.
-Getting Started:
-
-Fork this repository: Create your own copy of this project by clicking the "Fork" button.
-
-Clone the repository: Download a local copy of your forked repository to your computer using the following command:
-
-Bash
-git clone <your-forked-repository-url>
-Use o código com cuidado.
-
-Create a new branch: Before making changes, create a new branch to isolate your work:
-
-Bash
-git checkout -b <branch-name>
-Use o código com cuidado.
-
-Make changes: Add, modify, or delete files as needed.
-
-Commit changes: Stage and commit your changes:
-
-Bash
-git add <file-name>
-git commit -m "Your commit message"
-Use o código com cuidado.
-
-Push changes: Upload your changes to your remote repository:
-
-Bash
-git push origin <branch-name>
-Use o código com cuidado.
-
 Common GitHub Commands:
 
 Initialization:
