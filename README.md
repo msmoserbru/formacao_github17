@@ -1,2 +1,3 @@
-# formacao_github17
-Formação GitHub Dio
+# Formação Github Certification
+
+This repo was created to organize and contribute to a Git Certification course. 
