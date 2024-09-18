@@ -8,8 +8,6 @@ This repo was created to organize and contribute to a Git Certification course.
 
 where $code \ne notes$
 
-[Discord]([http://discord.com](@moser_74633))
-
-Made for testing ~~~only~~
+Made for testing ~~only~~
 
 <span style="color: purple">Nice one!</span>
