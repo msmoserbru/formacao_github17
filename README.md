@@ -1,6 +1,15 @@
-# Formação Github Certification
+## Project Title: GitHub Fundamentals
 
-This repo was created to organize and contribute to a Git Certification course. 
+#Description:
+
+This project serves as a repository to document my journey of learning the fundamentals of GitHub and working towards obtaining the GitHub certification. It will include notes, code examples, and exercises related to various GitHub concepts and workflows. 
+
+#Objectives:
+
+<span style="color: purple"> Gain a solid understanding of GitHub's core features and functionalities.</span>
+<span style="color: purple">Master essential GitHub commands and workflows.</span>
+<span style="color: purple">Successfully complete the GitHub certification exam.</span>
+<span style="color: purple">Build a portfolio of GitHub projects to showcase my skills.</span>
 
 **Do not use for personal studies** *somethings might be wrong* **THIS IS JUST A TEST**
 
@@ -8,12 +17,12 @@ This repo was created to organize and contribute to a Git Certification course.
 
 where $code \ne notes$
 
-<<<<<<< HEAD
-[Discord]([http://discord.com](@moser_74633))
-
 Made for testing ~~~only~~
-=======
-Made for testing ~~only~~
->>>>>>> 2fa8ab7f5a1346f4d0f413b755d0713386d0f8d2
 
-<span style="color: purple">Nice one!</span>
+
+
+
+
+
+
+
