@@ -1,10 +1,10 @@
-## Project Title: GitHub Fundamentals
+# Project Title: GitHub Fundamentals
 
-Description:
+##Description:
 
 This project serves as a repository to document my journey of learning the fundamentals of GitHub and working towards obtaining the GitHub certification. It will include notes, code examples, and exercises related to various GitHub concepts and workflows. 
 
-Objectives:
+##Objectives:
 
 <span style="color: purple"> Gain a solid understanding of GitHub's core features and functionalities.</span>
 <span style="color: purple">Master essential GitHub commands and workflows.</span>
@@ -13,7 +13,7 @@ Objectives:
 
 **Do not use for personal studies** *somethings might be wrong* **THIS IS JUST A TEST**
 
-Common GitHub Commands:
+#Common GitHub Commands:
 
 Initialization:
 
@@ -52,7 +52,7 @@ GitHub Help: https://docs.github.com/
 GitHub Guides: https://github.com/git-guides
 GitHub Certification: https://resources.github.com/learn/certifications/
 
-'git add code'
+`git add code`
 
 where $code \ne notes$
 
