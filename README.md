@@ -28,7 +28,7 @@ As [Site: John Gruber] writes on the [Site: Markdown site][df1]
 > Mauris feugiat nulla ut vulputate suscipit.
 > Nulla vitae ultrices mauris, et mollis sapien.
 
-## Tech
+## Mais títulos
 
 Abaixo forma de incluir código: 
 
