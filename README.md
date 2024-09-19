@@ -1,59 +1,68 @@
-# Project Title: GitHub Fundamentals
+# Este é o título.
+## _Este é o subtítulo em itálico_
 
-##Description:
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-This project serves as a repository to document my journey of learning the fundamentals of GitHub and working towards obtaining the GitHub certification. It will include notes, code examples, and exercises related to various GitHub concepts and workflows. 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-##Objectives:
+Fonte para o que você quiser descrever.
 
-<span style="color: purple"> Gain a solid understanding of GitHub's core features and functionalities.</span>
-<span style="color: purple">Master essential GitHub commands and workflows.</span>
-<span style="color: purple">Successfully complete the GitHub certification exam.</span>
-<span style="color: purple">Build a portfolio of GitHub projects to showcase my skills.</span>
+- Esta é a linha um de uma lista
+- Esta é a linha dois de uma lista
+- ✨Magic ✨
 
-**Do not use for personal studies** *somethings might be wrong* **THIS IS JUST A TEST**
+## Outro título
 
-#Common GitHub Commands:
+- Esta é a linha um de uma lista
+- Esta é a linha dois de uma lista
+- Esta é a linha três de uma lista...
 
-Initialization:
+Fonte para o que você quiser descrever.
+As [Site: John Gruber] writes on the [Site: Markdown site][df1]
 
-git init: Creates a new Git repository in the current directory.
-Cloning:
+> Quote:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Nulla congue ipsum ac justo faucibus lobortis. 
+> Morbi posuere sapien a dapibus consectetur. Vivamus ut diam sem.
+> Nunc egestas commodo facilisis.
+> Mauris feugiat nulla ut vulputate suscipit.
+> Nulla vitae ultrices mauris, et mollis sapien.
 
-git clone <repository-url>: Creates a local copy of a remote repository.
-Branching:
+## Tech
 
-git branch <branch-name>: Creates a new branch.
-git checkout <branch-name>: Switches to a different branch.
-git branch -d <branch-name>: Deletes a branch locally.
-git push origin -d <branch-name>: Deletes a branch remotely.
-Staging:
+Abaixo forma de incluir código: 
 
-git add <file-name>: Stages a file for commit.
-git add .: Stages all changes.
-Committing:
+```sh
+cd documents
+npm i
+node app
+```
 
-git commit -m "Your commit message": Creates a new commit with the specified message.
-Pushing:
+depois...
 
-git push origin <branch-name>: Pushes changes to a remote branch.
-Pulling:
+```sh
+npm install --production
+NODE_ENV=production node app
+```
 
-git pull origin <branch-name>: Fetches changes from a remote branch and merges them into the current branch.
-Fetching:
+Abaixo como fazer uma tabela:
 
-git fetch origin: Downloads new commits from a remote repository without merging them.
-Merging:
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-git merge <branch-name>: Merges changes from another branch into the current branch.
-Additional Resources:
+**Negrito, Hell Yeah!**
 
-GitHub Help: https://docs.github.com/
-GitHub Guides: https://github.com/git-guides
-GitHub Certification: https://resources.github.com/learn/certifications/
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-`git add code`
-
-where $code \ne notes$
-
-Made for testing ~~~only~~
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
