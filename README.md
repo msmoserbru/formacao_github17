@@ -1,5 +1,9 @@
 # Este é o título.
 ## _Este é o subtítulo em itálico_
+### Tá fincando menor...
+#### bem menor...
+##### e menor...
+###### e menor...
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -9,7 +13,21 @@ Fonte para o que você quiser descrever.
 
 - Esta é a linha um de uma lista
 - Esta é a linha dois de uma lista
-- ✨Magic ✨
+-----------------------------------------    
+
+[README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) 
+
+✨Para colocar emojis como Magic: ✨
+
+https://emojipedia.org/
+
+[![Mais cards](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
+[![Mais Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://devicon.dev/)
+[![Ainda mais Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
+
+Mais cards:
+ 
+
 
 ## Outro título
 
@@ -18,7 +36,6 @@ Fonte para o que você quiser descrever.
 - Esta é a linha três de uma lista...
 
 Fonte para o que você quiser descrever.
-As [Site: John Gruber] writes on the [Site: Markdown site][df1]
 
 > Quote:
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit.
