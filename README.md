@@ -16,6 +16,8 @@ Fonte para o que você quiser descrever.
 -----------------------------------------    
 
 [README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) 
+[README Generator 2](https://dillinger.io/) 
+
 
 ✨Para colocar emojis como Magic: ✨
 
@@ -24,6 +26,9 @@ https://emojipedia.org/
 [![Mais cards](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 [![Mais Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://devicon.dev/)
 [![Ainda mais Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
+
+[Git Documentation](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 Mais cards:
  
